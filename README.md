@@ -8,6 +8,7 @@ Major languages
 Frameworks
 Technologies used
 
+online version link: https://atatm.github.io/
 
 To get a local copy up and running follow these simple example steps.
 
